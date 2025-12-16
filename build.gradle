@@ -14,7 +14,7 @@ buildscript {
         gradlePluginPortal()
     }
     dependencies {
-        classpath 'edu.sc.seis.gradle:launch4j:2.5.4'
+        classpath 'edu.sc.seis.launch4j:launch4j:2.5.4'
     }
 }
 
